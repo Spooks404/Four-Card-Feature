@@ -1,0 +1,172 @@
+html {
+    background-color:#FAFAFA;
+    font-family:Poppins;
+    
+}
+
+header{
+    text-align: center;
+
+}
+
+p{
+    margin:0;
+}
+.header-title{
+font-size:35px; 
+color:hsl(234, 12%, 34%);   
+}
+
+.subheader{
+    width:550px;
+    margin:auto;
+    color:hsl(229, 6%, 66%)
+}
+
+.container{
+    display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+
+/* Cyan Card CSS */
+.card1{
+border-radius:4px;
+background-color: white;
+width: 400px;
+box-shadow: 0 5px 15px #b9c2d1;
+border-top: 5px solid hsl(180, 62%, 55%);
+height:250px;
+margin:20px;
+}
+
+.title1{
+margin: 10px 10px 10px 30px;
+color:hsl(234, 12%, 34%);
+font-weight: bold;
+font-size: 20px   
+}
+
+.description1{
+width:300px;
+margin: 10px 10px 10px 30px;
+color:hsl(229, 6%, 66%);   
+}
+
+.icon1{
+    display: flex;
+    justify-content: flex-end;
+ margin-right: 30px;
+ padding-bottom: 30px;
+ padding-top: 20px;
+}
+
+
+
+
+/* Red Card */
+.card2{
+    border-radius:4px;
+    background-color: white;
+    width: 400px;
+    box-shadow: 0 5px 15px #b9c2d1;
+    border-top: 5px solid hsl(0, 78%, 62%);
+    flex-direction: column;
+    height:250px;
+margin:20px;
+    }
+    
+    .title2{
+    margin: 10px 10px 10px 30px;
+    color:hsl(234, 12%, 34%);
+    font-weight: bold;
+    font-size: 20px   
+    }
+    
+    .description2{
+    width:300px;
+    margin: 10px 10px 10px 30px;
+    color:hsl(229, 6%, 66%);   
+    }
+    
+    .icon2{
+        display: flex;
+        justify-content: flex-end;
+     margin-right: 30px;
+     padding-bottom: 35px;
+     padding-top: 20px;
+    }
+
+
+
+
+/*Yellow Card  */
+    .card3{
+        border-radius:4px;
+        background-color: white;
+        width: 400px;
+        box-shadow: 0 5px 15px #b9c2d1;
+        border-top: 5px solid hsl(34, 97%, 64%);
+        flex-direction: column;
+        height:250px;
+margin:20px;
+        }
+        
+        .title3{
+        margin: 10px 10px 10px 30px;
+        color:hsl(234, 12%, 34%);
+        font-weight: bold;
+        font-size: 20px   
+        }
+        
+        .description3{
+        width:300px;
+        margin: 10px 10px 10px 30px;
+        color:hsl(229, 6%, 66%);   
+        }
+        
+        .icon3{
+        display: flex;
+        justify-content: flex-end;
+         margin-right: 30px;
+         padding-bottom: 35px;
+         padding-top: 20px;
+        }
+
+
+
+
+/* blue card */
+        .card4{
+            border-radius:4px;
+            background-color: white;
+            width: 400px;
+            box-shadow: 0 5px 15px #b9c2d1;
+            border-top: 5px solid hsl(212, 86%, 64%);
+            flex-direction: column;
+            height:250px;
+margin:20px;
+            }
+            
+            .title4{
+            margin: 10px 10px 10px 30px;
+            color:hsl(234, 12%, 34%);
+            font-weight: bold;
+            font-size: 20px   
+            }
+            
+            .description4{
+            width:300px;
+            margin: 10px 10px 10px 30px;
+            color:hsl(229, 6%, 66%);   
+            }
+            
+            .icon4{
+            display: flex;
+            justify-content: flex-end;
+             margin-right: 30px;
+             padding-bottom: 35px;
+             padding-top: 20px;
+            }
